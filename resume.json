@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Craig Kahle",
+    "label": "Cloud Solutions / Web Engineer",
+    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "Solutions Engineer / Web Developer with a focus on infrastructure automation and using the right tool for the job",
+    "website": "https://craigkahle.com",
+    "email": "ckahle33@gmail.com",
+    "location": {
+      "city": "Austin",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "username": "craigkahle",
+        "url": "https://twitter.com/craigkahle",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/ckahle33",
+        "username": "ckahle33",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2012-02-01",
+      "startDate": "2009-08-01",
+      "area": "Broadcasting, Telecom & Mass Media",
+      "studyType": "Bachelors",
+      "institution": "Temple University"
+    },
+    {
+      "endDate": "2009-05-01",
+      "startDate": "2007-09-01",
+      "area": "Graphic Design",
+      "studyType": "No Degree",
+      "institution": "Drexel University"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "SCSS / CSS / HTML5",
+        "Javascript / ES6 / Typescript",
+        "React / JSX"
+      ],
+      "level": "Mid-Level",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Python / Flask / Django",
+        "Ruby / Rails / Sinatra",
+        "PHP / Laravel / Codeigniter",
+        "Go / Gin", "PostgreSQL", "MySQL"],
+      "name": "Backend"
+    },
+    {
+      "keywords": ["GCP", "AWS", "Heroku", "Digital Ocean", "Ansible"],
+      "name": "Devops"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Build Solutions and Assist Advanced / Preimum GCP Customers",
+      "website": "https://cloud.google.com",
+      "company": "Google",
+      "location": "Austin, TX",
+      "position": "Cloud Technical Solutions Engineer",
+      "startDate": "2020-02-10",
+      "highlights": ["Support S&P 500 Customers across numerous verticals", "Contributions to an On-Prem -> GCS Data migration PSO tool", "Maintain 2 internal Chrome extensions with 1k+ users"]
+    },
+    {
+      "summary": "Tasked with building Payment integrations, writing Ansible scripts, and everything in between",
+      "website": "https://sxsw.com",
+      "company": "SXSW",
+      "location": "Austin, TX",
+      "position": "Fullstack Web Developer",
+      "startDate": "2016-07-01",
+      "endDate": "2020-01-14",
+      "highlights": [
+        "Built numerous systems from scratch with Ruby on Rails and Vanilla ES6/React.",
+        "Implemented Chase Paymentech tokenization front and backend in https://cart.sxsw.com that processes $40+ million annually",
+        "Provisioned and managed AWS Ubuntu 16.04 VMs with Ansible.",
+        "Built and maintained APIs used by ~200.000 attendees using the official mobile app by writing performant custom SQL/SQL views"
+      ]
+    },
+    {
+      "summary": "Full Stack Developer focusing on Web and Mobile Applications",
+      "pinned": true,
+      "company": "Crispy Interactive",
+      "location": "Austin, TX",
+      "position": "Full Stack Web Developer",
+      "startDate": "2014-07-01",
+      "endDate": "2016-02-01",
+       "highlights": [
+        "Built custom web apps on top of the Laravel framework in PHP and Angular JS.",
+        "Built a cross platform user forum mobile app on the Ionic framework in Angular 1.x that commmunicated with a Discourse (Rails) backend.",
+        "Contributed to a complete front end rebuild of Gymboree's monolithic e-commerce platform in Angular."
+      ]
+    },
+    {
+      "summary": "Front End Developer focused on large scale CMS rollout and temaplating",
+      "pinned": true,
+      "location": "Austin, TX",
+      "website": "https://cns.utexas.edu",
+      "company": "University of Texas at Austin",
+      "position": "Front End Web Developer",
+      "startDate": "2012-10-01",
+      "endDate": "2014-06-01",
+       "highlights": [
+        "Wrote custom templates and contact management systems in PHP on top of the Joomla Framework",
+        "Used JS/JQuery and Sass to build systems that were used in 15+ departmental sites within the College of Natural Sciences",
+        "Built a mobile first SASS framework upon which all departmental sites were based"
+      ]
+    }
+
+  ],
+  "interests": [
+    {
+      "name": "Guitar"
+    },
+    {
+      "name": "Music Production and Performance"
+    },
+    {
+      "name": "Biking"
+    },
+    {
+      "name": "Brazilian Jiu Jitsu"
+    }
+  ]
+}
